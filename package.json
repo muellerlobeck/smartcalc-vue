@@ -1,0 +1,28 @@
+{
+  "name": "vue-example-counter",
+  "version": "1.0.0",
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.18.1",
+    "core-js": "^3.6.5",
+    "jquery": "^3.5.1",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.rz.htw-berlin.de:lobeck/vue-example-counter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
